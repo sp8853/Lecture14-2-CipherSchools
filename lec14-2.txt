@@ -1,0 +1,6 @@
+returning multiple values from a function 
+return statement can return only one value
+what if we want to return more than one value?
+use pointers:
+return one value as usual with a return statement 
+for other return values, pass the address of a variable in which the value is to be returned
